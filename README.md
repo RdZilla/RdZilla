@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjB5ZjFsZXFmbG1vZnIwYnUyajN6aXM1N3BjYm5maGEyN2lsOGlrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjB5ZjFsZXFmbG1vZnIwYnUyajN6aXM1N3BjYm5maGEyN2lsOGlrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif" width="350">
 </div>
 <div id="badges" align="center">
     <a href="https://t.me/p_eliseev">
@@ -9,21 +9,20 @@
 <div align="center">
     <img width="150" src="https://komarev.com/ghpvc/?username=RdZilla&style=flat-square&color=blue" alt="">
 </div>
-<h1>
-    Welcome to my GitHub profile
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlyOWloaXhxa2Y5dGtjcnM3cjIzY3pocGhmcTRyaDN3NDZtaTdqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/82MkOzEyyXeSLkgWyv/giphy.gif" width="500" height="400"/>
-</div>
 
 ---
 
-### :man_technologist: About Me:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlyOWloaXhxa2Y5dGtjcnM3cjIzY3pocGhmcTRyaDN3NDZtaTdqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/82MkOzEyyXeSLkgWyv/giphy.gif" width="400" height="367" align="right">
 
+### Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+#### :man_technologist: About Me:
+
+<div>
 I am a student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkcThqNDJhYzByOTNsMzFkazBjOHQ1ZjZmNTF0MnBhM2c1Z29jbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oHoASEzW8HppPux0Si/giphy.gif" width="45"> from the MGTU Stankin University from Moscow.
 
+<p>
+    
 :mag_right: I'm interested in:
 - :desktop_computer: Developing applications with a graphical interface;
 - :snake: Python development;
@@ -32,6 +31,8 @@ I am a student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkcT
 - :guitar: Playing guitar in free time.
 
 :mailbox_with_mail: How to reach me: [![Telegram Badge](https://img.shields.io/badge/My%20contact-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/p_eliseev)
+</p>
+</div>
 
 ---
 

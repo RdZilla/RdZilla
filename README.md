@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlyOWloaXhxa2Y5dGtjcnM3cjIzY3pocGhmcTRyaDN3NDZtaTdqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/82MkOzEyyXeSLkgWyv/giphy.gif" width="400" height="367" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlyOWloaXhxa2Y5dGtjcnM3cjIzY3pocGhmcTRyaDN3NDZtaTdqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/82MkOzEyyXeSLkgWyv/giphy.gif" width="380" height="350" align="right">
 
 ### Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 

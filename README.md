@@ -19,8 +19,12 @@
 #### :man_technologist: About Me:
 
 <div>
-I am a student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkcThqNDJhYzByOTNsMzFkazBjOHQ1ZjZmNTF0MnBhM2c1Z29jbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oHoASEzW8HppPux0Si/giphy.gif" width="45"> from the MSTU Stankin University from Moscow.
-
+    
+<p>
+    
+I am a student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkcThqNDJhYzByOTNsMzFkazBjOHQ1ZjZmNTF0MnBhM2c1Z29jbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oHoASEzW8HppPux0Si/giphy.gif" width="45"> from the MSTU Stankin University from Moscow.<br>
+I work for [«JSC CROC incorporated»](https://www.croc.ru "website «JSC CROC incorporated»") as a junior development engineer
+</p>
 <p>
     
 :mag_right: I'm interested in:
@@ -39,6 +43,8 @@ I am a student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkcT
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python3" alt="python" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="django" alt="django" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg"  title="djangorest" alt="djangorest" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg"  title="MariaDB" alt="MariaDB" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"  title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
@@ -49,6 +55,7 @@ I am a student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkcT
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="docker" alt="docker" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"  title="kubernetes" alt="kubernetes" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-line-wordmark.svg"  title="sonarqube" alt="sonarqube" width="60" height="60"/>&nbsp;
 </div>
 
 ---

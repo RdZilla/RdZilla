@@ -29,6 +29,7 @@ I work for [«JSC CROC incorporated»](https://www.croc.ru "website «JSC CROC i
     
 :mag_right: I'm interested in:
 - :desktop_computer: Developing applications with a graphical interface;
+- :globe_with_meridians: Developing websites
 - :snake: Python development;
 - :dolphin::mango: Database design, development and administration;
 - :whale:☸️ Starting to enter DevOps;

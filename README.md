@@ -22,8 +22,7 @@
     
 <p>
     
-I am a student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkcThqNDJhYzByOTNsMzFkazBjOHQ1ZjZmNTF0MnBhM2c1Z29jbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oHoASEzW8HppPux0Si/giphy.gif" width="45"> from the MSTU Stankin University from Moscow.<br>
-I work for [«JSC CROC incorporated»](https://www.croc.ru "website «JSC CROC incorporated»") as a junior development engineer
+I am a student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkcThqNDJhYzByOTNsMzFkazBjOHQ1ZjZmNTF0MnBhM2c1Z29jbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oHoASEzW8HppPux0Si/giphy.gif" width="45"> from the MSTU Stankin University from Moscow.
 </p>
 <p>
     
